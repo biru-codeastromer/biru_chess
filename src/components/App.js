@@ -71,7 +71,7 @@ function App() {
       <div className="header">
       <img src="/chesslogo.png" alt="Game Logo" className="game-image" />
         <div className="game-info">
-          <h1>Biru CHESS</h1>
+          <h1>CodeChess</h1>
         </div>
       </div>
       <div className="chessboard-container">
