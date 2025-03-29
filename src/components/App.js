@@ -69,11 +69,9 @@ function App() {
   return (
     <div className="app">
       <div className="header">
-        <img src=
-"https://media.geeksforgeeks.org/wp-content/cdn-uploads/20210420155809/gfg-new-logo.png" 
-        alt="Game Image" className="game-image" />
+      <img src="/chesslogo.png" alt="Game Logo" className="game-image" />
         <div className="game-info">
-          <h1>GeeksforGeeks Chess Game</h1>
+          <h1>Biru CHESS</h1>
         </div>
       </div>
       <div className="chessboard-container">
